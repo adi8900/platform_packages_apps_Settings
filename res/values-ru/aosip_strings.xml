@@ -16,15 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- AOSiP Version -->
     <string name="aosip_version">Версия AOSiP</string>
     <string name="aosip_version_default">Неизвестно</string>
+
     <!-- OwlsNest -->
     <string name="owlsnest_title">Гнездо Совы</string>
     <string name="owlsnest_activity_summary">Дом Кроника</string>
+
     <!-- AOSiP Updater -->
     <string name="update_settings_title">Обновления AOSiP</string>
     <string name="update_settings_summary">Проверить наличие свежей версии прошивки</string>
+
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Поворот экрана</string>
     <string name="display_rotation_disabled">Выключен</string>
@@ -34,36 +38,47 @@
     <string name="display_rotation_90_title">90 градусов</string>
     <string name="display_rotation_180_title">180 градусов</string>
     <string name="display_rotation_270_title">270 градусов</string>
+
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Сбросить статистику</string>
     <string name="battery_stats_message">Статистика батареи будет сброшена</string>
     <string name="ok_string">OK</string>
+
     <!-- About phone, uptime. Deep sleep ratio since last reboot. -->
     <string name="status_deep_sleep">(Глубокий сон: %1$d%2$s)</string>
+
     <!-- Advanced night mode brightness -->
     <string name="night_brightness_value_title">Снижение яркости при использовании ночного режима</string>
     <string name="night_auto_value_disabled">Выключено</string>
     <string name="night_auto_value_min">Минимальная яркость</string>
     <string name="night_bright_low">Низкая яркость</string>
     <string name="night_bright_midlow">Яркость ниже среднего</string>
+
     <!-- Screenshot shutter sound -->
     <string name="screenshot_shutter_sound_title">Звук снятия скриншота</string>
+
     <!-- Ambient category -->
     <string name="ambient_display_category">Настройки Активного экрана</string>
+
     <!-- Wake on plug -->
     <string name="wake_when_plugged_or_unplugged_title">Включение при зарядке</string>
     <string name="wake_when_plugged_or_unplugged_summary">Включить экран при подключении или отключении источника питания</string>
+
     <!-- Vibrate on plug -->
     <string name="vibration_on_charge_state_changed_title">Вибрировать при подключении зарядки</string>
+
     <!-- Battery temp -->
     <string name="battery_temp_title">Температура батареи</string>
+
     <!-- Ambient display -->
     <string name="custom_ambient_display_summary">Дополнительная настройка Активного экрана</string>
+
     <!-- Nav Gesture -->
     <string name="full_gesture_mode_title">Включить полный режим жестов</string>
     <string name="full_gesture_mode_summary">Этот режим отключает кнопку Назад и Вы можете вызвать действие кнопки Назад с помощью свайпа влево на панели навигации. Правый свайп по-прежнему вызывает последнее приложение и обзор недавних приложений. Чтобы вернуться на домашний экран, Вы можете нажать на любое пустое место панели навигации, а не только на кнопку Домой. Когда клавиатура активна, удерживайте нажатие на пустом месте для того, чтобы переместить курсор.</string>
     <string name="full_gesture_mode_dt2s_title">Включить двойное нажатие для сна</string>
     <string name="full_gesture_mode_dt2s_summary">Нажмите на пустое место в панели навигации (но не кнопку домой) для выключения экрана.</string>
+
     <!-- Less Notification sounds -->
     <string name="less_notification_sounds_title">Менее частые звуки уведомлений</string>
     <string name="less_notification_sounds_summary">Проигрывать звук уведомления для каждого приложения только один раз за выбранный промежуток времени</string>
@@ -77,18 +92,33 @@
     <string name="less_notification_sounds_1m">Каждую минуту</string>
     <string name="less_notification_sounds_2m">Каждые 2 минуты</string>
     <string name="less_notification_sounds_5m">Каждые 5 минут</string>
+
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Circle (default)</string>
-    <string name="qstile_squircle">Squircle</string>
-    <string name="qstile_justicons">Icons without circle</string>
-    <string name="qstile_inkdrop">Inkdrop</string>
+    <string name="qs_tile_style_title">Стиль плиток быстрых настроек</string>
+    <string name="qstile_default">Круглые (по умолчанию)</string>
+    <string name="qstile_squircle">Округлый квадрат</string>
+    <string name="qstile_justicons">Просто значки</string>
+    <string name="qstile_inkdrop">Мазок чернилами</string>
     <string name="qstile_shishu_nights">Shishu Nights</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
+    <string name="qstile_circle_gradient">Круг (Градиент)</string>
+    <string name="qstile_wavey">Волнистые</string>
+    <string name="qstile_circle_dualtone">Двух-тоновый круг</string>
+    <string name="qstile_memedo_square">The Memedo Square</string>
+    <string name="qstile_pokesign">Стиль Pokeball</string>
+    <string name="qstile_ninja">Ниндзя</string>
+    <string name="qstile_dottedcircle">Точечный Круг</string>
     <string name="qstile_shishuink">Shishu Ink</string>
-    <string name="qstile_attemptmountain">An attempt of a mountain</string>
+    <string name="qstile_attemptmountain">Горы</string>
+    <string name="qstile_cookie">Печенье</string>
+    <string name="qstile_cosmos">Космос</string>
+    <string name="qstile_neonlike">Неоновый свет</string>
+    <string name="qstile_oos">Oxygen</string>
+    <string name="qstile_triangles">треугольники</string>
+    <string name="qstile_divided">Разделенный круг</string>
+
     <!-- Manage applications, package string displayed in app snippet -->
+    <string name="packagename_text" translatable="false"><xliff:g id="package_name">%1$s</xliff:g></string>
+
     <!-- Manual provisioning support -->
     <string name="sim_enabler_summary">SIM-карта <xliff:g id="displayName">%1$s</xliff:g> сейчас <xliff:g id="status" example="выключена">%2$s</xliff:g></string>
     <string name="sim_disabled">отключена</string>
@@ -103,21 +133,26 @@
     <string name="sub_activate_failed">Ошибка активации.</string>
     <string name="sub_deactivate_success">SIM-карта отключена.</string>
     <string name="sub_deactivate_failed">Отключение не удалось.</string>
+
     <!-- Option defining the phone ringtone for slot1 on Muilti SIM device -->
     <string name="ringtone1_title">Рингтон - SIM 1</string>
     <string name="ringtone2_title">Рингтон - SIM 2</string>
+
     <!-- Custom light color -->
     <string name="custom_light_title">Цвет уведомления</string>
     <string name="custom_light_on_time_title">Время работы светодиода во время пульсации (мс)</string>
     <string name="custom_light_off_time_title">Время паузы светодиода во время пульсации (мс)</string>
     <string name="value_equals_default">умолч.</string>
+
     <!-- Increasing ring tone volume -->
     <string name="increasing_ring_volume_option_title">Возрастающая громкость звонка</string>
     <string name="increasing_ring_min_volume_title">Начальная громкость</string>
     <string name="increasing_ring_ramp_up_time_title">Время нарастания</string>
+
     <!-- Battery saving mode for Location - GPS will be disabled -->
     <string name="location_mode_battery_saving_title">Режим энергосбережения</string>
     <string name="location_mode_battery_saving_summary">Используйте только Wi-Fi, Bluetooth или мобильные сети для определения местоположения (менее точно)</string>
+
     <!-- Aggressive battery -->
     <string name="aggressive_battery_title">Агрессивное энергосбережение</string>
     <string name="aggressive_battery_summary">Более строгая экономия батареи</string>
@@ -128,6 +163,7 @@
     <string name="aggressive_standby_summary">Запретить приложениям работу в фоновом режиме</string>
     <string name="aggressive_battery_saver_title">Включать автоматически в режиме экономии заряда </string>
     <string name="aggressive_battery_saver_summary">Автоматически включать агрессивное энергосбережение в режиме экономии заряда батареи</string>
+    
     <!-- Privacy Guard -->
     <string name="app_ops_settings">Операции в приложениях</string>
     <string name="privacy_guard_manager_title">Защищенный режим</string>
@@ -146,16 +182,19 @@
     <string name="privacy_guard_advanced_settings_title">Расширенные настройки</string>
     <string name="privacy_guard_notification_title">Показывать уведомление</string>
     <string name="loading">Загрузка\u2026</string>
+
     <!-- App ops permissions -->
     <string name="app_ops_permissions_allowed">Разрешено</string>
     <string name="app_ops_permissions_ignored">Игнорируется</string>
     <string name="app_ops_permissions_always_ask">Всегда спрашивать</string>
+
     <!-- App ops detail -->
     <string name="app_ops_entry_summary"><xliff:g id="op">%1$s</xliff:g> (использовано <xliff:g id="count">%2$s</xliff:g>)</string>
     <string name="app_ops_allowed_count">Разрешено <xliff:g id="count" example="2 раза">%s</xliff:g></string>
     <string name="app_ops_ignored_count">Запрещено <xliff:g id="count" example="2 раза">%s</xliff:g></string>
     <string name="app_ops_both_count">Разрешено <xliff:g id="count">%1$s</xliff:g>, запрещено <xliff:g id="count">%2$s</xliff:g></string>
     <string name="app_ops_no_blockable_permissions">Нет разрешений, доступных для блокировки</string>
+
     <!-- App ops menu options -->
     <string name="app_ops_show_user_apps">Показать пользовательские приложения</string>
     <string name="app_ops_show_system_apps">Показывать предустановленные приложения</string>
@@ -164,6 +203,7 @@
     <string name="app_ops_reset_confirm_mesg">Вы уверены, что хотите сбросить счетчики?</string>
     <!-- Memory -->
     <string name="memory_startup_apps_title">Запуск при включении устройства</string>
+
     <!-- Names of categories of app ops tabs - extension of AOSP -->
     <string name="app_ops_categories_location">Местоположение</string>
     <string name="app_ops_categories_personal">Личные данные</string>
@@ -173,6 +213,7 @@
     <string name="app_ops_categories_run_in_background">Работа в фоновом режиме</string>
     <string name="app_ops_categories_bootup">Загрузка</string>
     <string name="app_ops_categories_other">Прочее</string>
+
     <!-- User display names for app ops codes - extension of AOSP -->
     <string name="app_ops_summaries_accept_handover">передача вызова из другого приложения</string>
     <string name="app_ops_summaries_access_camera">доступ к камере</string>
@@ -259,6 +300,7 @@
     <string name="app_ops_summaries_write_external_storage">запись на внешний накопитель</string>
     <string name="app_ops_summaries_write_mms">создание MMS-сообщения</string>
     <string name="app_ops_summaries_write_sms">создание SMS-сообщений</string>
+
     <!-- User display names for app ops codes - extension of AOSP -->
     <string name="app_ops_labels_accept_handover">Передача вызова из другого приложения</string>
     <string name="app_ops_labels_access_camera">Доступ к камере</string>
@@ -345,51 +387,68 @@
     <string name="app_ops_labels_write_external_storage">Запись на внешний накопитель</string>
     <string name="app_ops_labels_write_mms">Создание MMS-сообщений</string>
     <string name="app_ops_labels_write_sms">Создание SMS-сообщений</string>
+
     <!-- Density category -->
     <string name="density_category">Настройки плотности экрана</string>
+
+    <!-- Battery estimates -->
+    <string name="battery_estimates_title">Данные батареи в QS</string>
+    <string name="battery_estimates_summary">Отображение примерного времени работы батареи в QS</string>
+
     <!-- Per-app data restrictions -->
     <string name="data_usage_app_restrict_data">Мобильные данные</string>
     <string name="data_usage_app_restrict_data_summary">Включить использование мобильных данных</string>
     <string name="data_usage_app_restrict_wifi">Данные Wi-Fi</string>
     <string name="data_usage_app_restrict_wifi_summary">Включить использование данных Wi-Fi</string>
+
     <!-- FP swype dismiss -->
     <string name="fp_swipe_to_dismiss_notifications_title">Проведите пальцем по сканеру отпечатков влево/вправо, чтобы убрать уведомления</string>
     <string name="fp_swipe_to_dismiss_notifications_summary">Чтобы убрать Ваши уведомления, проведите пальцем влево или право по сканеру отпечатка пальца.</string>
+
     <!-- System theme -->
     <string name="system_theme_wallpaper">Автоматически (в зависимости от времени суток)</string>
     <string name="system_theme_light">Светлая</string>
     <string name="system_theme_dark">Темная</string>
     <string name="blackaf_theme_title">Использовать черную BlackAF тему</string>
     <string name="blackaf_theme_summary">Использовать нашу черную тему вместо темной</string>
+
     <!-- Selinux -->
     <string name="selinux_status">Режим SELinux</string>
     <string name="selinux_status_disabled">Выключен</string>
     <string name="selinux_status_permissive">Только предупреждение</string>
     <string name="selinux_status_enforcing">Принудительный</string>
+
     <!-- Changelog -->
     <string name="changelog_title">Список изменений</string>
     <string name="changelog_summary">Изменения из Gerrit</string>
+
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Связать громкость рингтона и уведомлений</string>
+
     <!-- Media gestures -->
     <string name="prevent_ringing_option_mute_no_media">Без звука, без мультимедиа</string>
     <string name="prevent_ringing_option_mute_no_media_summary">Включено (без звука, без мультимедиа)</string>
+
     <!-- Format string for fingerprint location message -->
     <string name="security_settings_fingerprint_enroll_find_sensor_message_cm">Сканер отпечатков пальцев расположен на <xliff:g id="sensor_location">%1$s</xliff:g> Вашего телефона.</string>
+
     <!-- Fingerprint sensor locations -->
     <string name="security_settings_fingerprint_sensor_location_back">сзади</string>
     <string name="security_settings_fingerprint_sensor_location_front">спереди</string>
     <string name="security_settings_fingerprint_sensor_location_left">слева</string>
     <string name="security_settings_fingerprint_sensor_location_right">справа</string>
+
     <!-- Torch Power button gestures -->
     <string name="double_tap_power_flashlight_screen_title">Включить фонарик</string>
     <string name="double_tap_power_flashlight_title">Включение фонарика по кнопке питания</string>
     <string name="torch_power_button_gesture_none">Выключен</string>
     <string name="torch_power_button_gesture_dt">Двойное нажатие кнопки питания для включения фонарика</string>
     <string name="torch_power_button_gesture_lp">Длительное нажатие кнопки питания для включения фонарика</string>
+
     <!-- Pocket judge -->
-    <string name="pocket_judge_title">Режим В кармане</string>
+    <string name="pocket_judge_title">Режим \"В кармане\"</string>
     <string name="pocket_judge_summary">Блокировать экран и кнопки, когда устройство находится в кармане</string>
+
     <!-- Thermal control per app -->
     <string name="thermal_control_per_app">Профиль оптимизации</string>
     <string name="thermal_control_per_app_default">Без оптимизации</string>
@@ -399,4 +458,23 @@
     <string name="thermal_control_per_app_video_playback">Воспроизведение видео</string>
     <string name="thermal_control_per_app_dialer">Номеронабиратель</string>
     <string name="thermal_control_per_app_camera">Камера</string>
+
+    <!-- Font picker -->
+    <string name="font_picker_title">Шрифт</string>
+    <string name="disable_fonts_installed_title">Выбор шрифта недоступен во избежание конфликтов с Substratum. Удалите его, если хотите выбрать шрифт.</string>
+    <string name="font_picker_progress">Применение нового шрифта\u2026</string>
+
+    <!-- Make FP detection in pocket mode configurable -->
+    <string name="pocket_judge_fp_title">Сканер отпечатков при режиме \"В кармане\"</string>
+    <string name="pocket_judge_fp_summary">Не блокировать сканер отпечатков при вкюченном режиме в кармане</string>
+
+    <!-- Switch styles -->
+    <string name="switch_style_title">Стиль переключателей</string>
+    <string name="switch_default">Обычный</string>
+    <string name="switch_md2">Material Design 2</string>
+    <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_narrow">Стесненный</string>
+    <string name="switch_contained">Сдержанный</string>
+    <string name="switch_retro">Ретро</string>
+    <string name="switch_stockish">Stockish</string>
 </resources>

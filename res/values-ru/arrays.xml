@@ -498,8 +498,8 @@
   </string-array>
   <string-array name="dark_ui_mode_entries">
     <item msgid="146804192658443142">"Автоматически (в зависимости от времени суток)"</item>
-    <item msgid="6620560879508595181">"Всегда включен"</item>
-    <item msgid="6385301106124765323">"Всегда отключен"</item>
+    <item msgid="6620560879508595181">"Темная"</item>
+    <item msgid="6385301106124765323">"Светлая"</item>
   </string-array>
     <!-- no translation found for systemui_theme_entries:0 (2470122177508109711) -->
     <!-- no translation found for systemui_theme_entries:1 (5595198131199979987) -->

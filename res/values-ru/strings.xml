@@ -397,7 +397,7 @@
     <string name="security_passwords_title" msgid="2881269890053568809">"Конфиденциальность"</string>
     <string name="disabled_by_administrator_summary" msgid="1601828700318996341">"Отключено администратором"</string>
     <string name="security_status_title" msgid="5848766673665944640">"Статус защиты"</string>
-    <string name="security_dashboard_summary" msgid="6757421634477554939">"Блокировка экрана, цифровой отпечаток"</string>
+    <string name="security_dashboard_summary" msgid="6757421634477554939">"Play защита, блокировка экрана, цифровой отпечаток"</string>
     <string name="security_dashboard_summary_no_fingerprint" msgid="8129641548372335540">"Блокировка экрана"</string>
     <string name="security_settings_fingerprint_preference_title" msgid="2488725232406204350">"Отпечатки пальцев"</string>
     <string name="fingerprint_manage_category_title" msgid="8293801041700001681">"Управление отпечатками"</string>
@@ -1145,7 +1145,7 @@
     <string name="night_display_activation_off_twilight" msgid="7196227685059907233">"Отключить до заката"</string>
     <string name="night_display_activation_on_custom" msgid="5472029024427933598">"Включить до <xliff:g id="ID_1">%1$s</xliff:g>"</string>
     <string name="night_display_activation_off_custom" msgid="6169984658293744715">"Отключить до <xliff:g id="ID_1">%1$s</xliff:g>"</string>
-    <string name="screen_timeout" msgid="4351334843529712571">"Спящий режим"</string>
+    <string name="screen_timeout" msgid="4351334843529712571">"Тайм-аут экрана"</string>
     <string name="screen_timeout_title" msgid="5130038655092628247">"Отключение экрана"</string>
     <string name="screen_timeout_summary" msgid="327761329263064327">"После <xliff:g id="TIMEOUT_DESCRIPTION">%1$s</xliff:g> бездействия"</string>
     <string name="wallpaper_settings_title" msgid="5449180116365824625">"Обои"</string>
@@ -3023,11 +3023,11 @@
     <string name="connected_devices_dashboard_no_driving_mode_summary" msgid="5018708106066758867">"Bluetooth, NFC"</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary" msgid="5250078362483148199">"Bluetooth"</string>
     <string name="app_and_notification_dashboard_title" msgid="7838365599185397539">"Приложения и уведомления"</string>
-    <string name="app_and_notification_dashboard_summary" msgid="2363314178802548682">"Разрешения, приложения по умолчанию"</string>
+    <string name="app_and_notification_dashboard_summary" msgid="2363314178802548682">"Ассистент, недавние и приложения по умолчанию"</string>
     <string name="account_dashboard_title" msgid="5895948991491438911">"Аккаунты"</string>
     <string name="account_dashboard_default_summary" msgid="3998347400161811075">"Аккаунтов нет"</string>
     <string name="app_default_dashboard_title" msgid="7342549305933047317">"Приложения по умолчанию"</string>
-    <string name="system_dashboard_summary" msgid="5797743225249766685">"Язык, время, резервное копирование и обновления"</string>
+    <string name="system_dashboard_summary" msgid="5797743225249766685">"Язык, время, резервное копирование и обновление системы"</string>
     <string name="search_results_title" msgid="1796252422574886932">"Настройки"</string>
     <string name="search_menu" msgid="6283419262313758339">"Поиск настроек"</string>
     <string name="keywords_wifi" msgid="3646884600964177062">"Wi-Fi, WiFi, сетевое подключение, Интернет, беспроводной, данные, Wi Fi"</string>
