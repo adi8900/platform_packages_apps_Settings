@@ -188,6 +188,7 @@
     <string name="connected_device_add_device_summary" msgid="4041865900298680338">"Будет включен Bluetooth"</string>
     <string name="connected_device_connections_title" msgid="5988939345181466770">"Настройки подключения"</string>
     <string name="connected_device_previously_connected_title" msgid="491765792822244604">"Ранее подключенные устройства"</string>
+    <string name="previous_connected_see_all">"Увидеть все"</string>
     <string name="date_and_time" msgid="9062980487860757694">"Дата и время"</string>
     <string name="choose_timezone" msgid="1362834506479536274">"Выбрать часовой пояс"</string>
     <!-- no translation found for intent_sender_data_label (6332324780477289261) -->
