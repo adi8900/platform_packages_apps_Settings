@@ -15,6 +15,7 @@
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
+    ScreenRecorder \
     SoundPickerPrebuilt \
     WallpaperPickerGooglePrebuilt \
     MarkupGoogle
